@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Sumofn {
+public class SumOfN {
     static long sum(int n) {
         if (n == 1) {
             return 1;
